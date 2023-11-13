@@ -40,7 +40,7 @@
 ## Link to Front End
 > - [Live Link](https://fixmate.netlify.app/)
 
-> - [Link to Front-end Repository](https://github.com/anita00001/fix-mate-frontend)
+> - [Link to Front-end Repository](https://github.com/AnsarIbrahim/FixMate)
 
 ## Kanban Board Link
 > - [Link to Kanban Board](https://github.com/users/anita00001/projects/5)
